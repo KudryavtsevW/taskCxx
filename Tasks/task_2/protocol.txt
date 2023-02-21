@@ -1,0 +1,1 @@
+|Country:100|{|Oblast:100|{|City1:50|{|District1:25|District2:25|}|City2:50|}}|Country:100|{|Oblast:100|{|City1:50|{|District1:25|District2:25|}|City2:50|}}
